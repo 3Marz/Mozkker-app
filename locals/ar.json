@@ -1,0 +1,14 @@
+{
+	"tabs": {
+		"home": "الرئيسية",
+		"sunnan": "السنن",
+		"settings": "الإعدادت"
+	},
+	"sunnan": {
+		"searchPlaceHolder": "أبحث..."
+	},
+	"index": {
+		"randomSunnah": "سنة عشوائية"
+	}
+}
+

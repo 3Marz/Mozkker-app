@@ -1,0 +1,14 @@
+{
+	"tabs": {
+		"home": "Home",
+		"sunnan": "Sunnan",
+		"settings": "Settings"
+	},
+	"sunnan": {
+		"searchPlaceHolder": "Search..."
+	},
+	"index": {
+		"randomSunnah": "Random Sunnah"
+	}
+}
+
