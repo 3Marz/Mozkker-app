@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Mozker",
-    "slug": "Mozker",
+    "name": "Mozkker",
+    "slug": "Mozkker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -29,7 +29,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.basalamah.Mozker"
+      "package": "com.basalamah.Mozkker"
     },
     "web": {
       "bundler": "metro",
